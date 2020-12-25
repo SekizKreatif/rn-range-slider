@@ -11,6 +11,9 @@ These optimizations help to achieve as much native look & feel as possible using
 <img src="https://raw.githubusercontent.com/githuboftigran/rn-range-slider/master/demo.gif" width="369" height="195">
 </p>
 
+#### Version 2.1
+Customized for change low value from state.
+
 #### Version 1
 The version 1 was using native Android and iOS views.<br/>
 That gives native look & feel in favor of flexibility.<br/>
